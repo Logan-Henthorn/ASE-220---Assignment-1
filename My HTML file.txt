@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>About me</h1>
+
+<p>My name is Logan Henthorn. I am a student at NKU and I am pursuing a Bachelor's degree. I hope to land an IT job once I graduate.</p>
+
+<img src="pic_of_me.jpg" alt="Picture of myself and girlfriend">
+
+<p>An interesting detail about me, I still have all 10 of my toes.</p>
+
+</body>
+</html>
